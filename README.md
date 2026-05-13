@@ -38,3 +38,30 @@ Fortnite Enhancement Suite is a community project for offline gameplay analysis 
 * Windows 10/11 x64
 * Fortnite (Epic Games)
 * Visual Studio 2022 (for building)
+
+
+## 🎮 Supported Modes
+
+| Mode | Status |
+| :--- | :---: |
+| 🏝️ Creative Mode | ✅ Fully supported |
+| 🎯 Practice Range | ✅ Fully supported |
+| 🗺️ Playground | ✅ Fully supported |
+| 🏆 Public Matches | ⚠️ Not recommended |
+
+---
+
+
+## 🔧 Tech Stack
+
+* **Language:** C++17
+* **Compiler:** MSVC 2022
+* **Overlay:** D3D11 + ImGui
+* **Memory:** RPM/WPM via custom kernel driver
+* **Config:** JSON (nlohmann/json)
+* **Build:** CMake
+
+
+## 🛡️ Disclaimer
+
+> This project is for **educational and creative mode use only**. It is not intended for competitive play. The authors are not responsible for any account actions taken by users. Use at your own risk.
